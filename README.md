@@ -1,4 +1,10 @@
-# GeoidHeightsDotNet
+# GeoidHeights.Net-Stnd1.1
+
+Forked from https://github.com/MatejFranceskin/GeoidHeightsDotNet simply to provide wider compatibility of a package using .Net Standard 1.1.
+
+Hopefully, the orginal repo will release an updated package that will make this one unecessary.
+
+
 Calculate Geoid Undulation according to EGM96
 
 Usage Example:
