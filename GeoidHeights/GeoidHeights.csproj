@@ -20,13 +20,13 @@ double h = GeoidHeights.undulation(38.6281550, 269.7791550);</Description>
     <Copyright>Copyright ©2020</Copyright>
     <NeutralLanguage>en-US</NeutralLanguage>
     <Owners>Matej Frančeškin</Owners>
-    <PackageProjectUrl>https://github.com/jasells/GeoidHeightsDotNet</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/jasells/GeoidHeightsDotNet/tree/DnStnd1.1-Packaging</PackageProjectUrl>
     <Summary>Calculate Geoid Undulation according to EGM96</Summary>
     <Title>GeoidHeightsDotNet</Title>
     <PackOnBuild>true</PackOnBuild>
     <AssemblyName>GeoidHeights.Net.Stnd1</AssemblyName>
     <Company>Joshua A. Sells</Company>
-    <RepositoryUrl>https://github.com/jasells/GeoidHeightsDotNet</RepositoryUrl>
+    <RepositoryUrl>https://github.com/jasells/GeoidHeightsDotNet/tree/DnStnd1.1-Packaging</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Packaged as .Net Stnd1.1 to allow widest dissemination.</PackageReleaseNotes>
   </PropertyGroup>
